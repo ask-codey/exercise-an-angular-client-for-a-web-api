@@ -35,3 +35,7 @@ Run `npm test` as you go. Then start your products API (from *Practice: Northwin
 - Keep the products, a loading flag and a message in signals, and set them from `subscribe({ next, error })`.
 - `[ngModel]="categoryId()" (ngModelChange)="chooseCategory($event)"` reads the select's choice and runs a method when it changes.
 - After a delete or an add, update the list signal with the API's answer, rather than loading everything again.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
