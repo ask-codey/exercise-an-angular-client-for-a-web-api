@@ -1,8 +1,8 @@
-# Practice: an Angular Client for a Web API
+# Exercise: an Angular Client for a Web API
 
-Practice code for the lesson **Practice: an Angular Client for a Web API** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: an Angular Client for a Web API** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-Your products API from *Practice: Northwind Web API* gets a front end: an Angular page that lists the products, filters them by category, deletes them and adds new ones.
+Your products API from *Exercise: Northwind Web API* gets a front end: an Angular page that lists the products, filters them by category, deletes them and adds new ones.
 
 ## What's here
 
@@ -27,7 +27,7 @@ npm test
 1. Finish `ProductApi`.
 2. Finish `ProductList`.
 
-Run `npm test` as you go. Then start your products API (from *Practice: Northwind Web API*) and this app (`ng serve`), and open http://localhost:4200. If your API isn't at port 5179, change `proxy.conf.json`.
+Run `npm test` as you go. Then start your products API (from *Exercise: Northwind Web API*) and this app (`ng serve`), and open http://localhost:4200. If your API isn't at port 5179, change `proxy.conf.json`.
 
 ## Tips
 
